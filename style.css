@@ -465,6 +465,10 @@ button {
     outline: none!important;
 }
 
+.titre2{
+    padding: 0 15px;
+}
+
 .btn-rd {
     border-radius: 40px;
 }
